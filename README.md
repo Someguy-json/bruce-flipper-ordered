@@ -24,10 +24,8 @@ L'original listait les voisins dans l'ordre **numérique** des fichiers (`wifi, 
 ## 🚀 Installation
 
 1. Choisis ta variante : **Classic** (ambre rétro), **Black** ou **White**.
-2. Dézippe le dossier correspondant sur la **SD** (ou LittleFS). Utilise le sous-dossier **`140px`** pour le T-Embed CC1101 (105/180/192 fournis pour d'autres écrans).
+2. Copie le dossier correspondant sur la **SD** (ou LittleFS). Utilise le sous-dossier **`140px`** pour le T-Embed CC1101 (105/180/192 fournis pour d'autres écrans).
 3. Sur l'appareil : **Config → UI Theme → (SD) → sélectionne le `Theme_*.json`**.
-
-Les fichiers `.zip` prêts à l'emploi sont à la racine du dépôt.
 
 ## 🛠️ Comment c'est refait
 
