@@ -1,0 +1,15 @@
+Flipper Bruce Theme — menu-order fixed edition
+==============================================
+
+Original theme "Flipper Bruce Series" (cyber-dolphin, Flipper-Zero-style UI):
+  Author: anonimoKali
+  Source: https://github.com/anonimoKali/Bruce-Themes
+  License: GNU GPLv3
+
+Modification in this repository:
+  Menu-list order rebuilt to match the real Bruce main-menu order on the
+  LilyGO T-Embed CC1101 (images regenerated; original artwork preserved).
+  By: koua29 (Arnaud)
+
+Distributed under GNU GPLv3, same as the original.
+All artistic credit belongs to anonimoKali.
