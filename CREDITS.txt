@@ -9,7 +9,7 @@ Original theme "Flipper Bruce Series" (cyber-dolphin, Flipper-Zero-style UI):
 Modification in this repository:
   Menu-list order rebuilt to match the real Bruce main-menu order on the
   LilyGO T-Embed CC1101 (images regenerated; original artwork preserved).
-  By: koua29 (Arnaud)
+  By: koua29
 
 Distributed under GNU GPLv3, same as the original.
 All artistic credit belongs to anonimoKali.

@@ -34,7 +34,7 @@ Script [`tools/fix_flipper.py`](tools/fix_flipper.py) (Python + Pillow) : détec
 ## 🙏 Crédits & licence
 
 - **Design, dauphin et thème d'origine : [anonimoKali](https://github.com/anonimoKali/Bruce-Themes)** — tout le mérite artistique lui revient.
-- **Correction de l'ordre du menu : koua29** (Arnaud).
+- **Correction de l'ordre du menu : koua29**.
 - Distribué sous **GNU GPLv3** (comme l'original) — voir [LICENSE](LICENSE) et [CREDITS.txt](CREDITS.txt).
 
 ## 🛒 Matériel / Hardware
