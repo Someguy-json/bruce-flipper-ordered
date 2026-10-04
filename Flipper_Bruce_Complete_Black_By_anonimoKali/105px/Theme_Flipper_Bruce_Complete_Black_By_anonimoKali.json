@@ -1,31 +1,54 @@
 {
-  "wifi": "1.png",
-  "ble": "2.png",
-  "ethernet": "3.png",
-  "rf": "4.png",
-  "rfid": "5.png",
-  "fm": "7.png",
-  "ir": "6.png",
-  "files": "8.png",
-  "gps": "9.png",
-  "nrf": "10.png",
-  "interpreter": "11.png",
-  "lora": "12.png",
-  "others": "13.png",
-  "clock": "14.png",
-  "connect": "15.png",
-  "config": "16.png",
-  "border": 0,
-  "label": 0,
-  "name": "Flipper_Bruce_Complete_Black_By_anonimoKali_Ordered",
-  "author": "anonimoKali",
-  "priColor": "ffff",
-  "secColor": "b596",
-  "bgColor": "0000",
-  "ledBright": "10",
-  "ledColor": "ffffff",
-  "ledEffect": "4",
-  "ledEffectSpeed": "6",
-  "ledEffectDirection": 1,
-  "gifDuration": -1
+  "name": "Flipper_Bruce_StickCPlus2",
+  "author": "anonimoKali (Mod by AI)",
+  "display": {
+    "width": 135,
+    "height": 240,
+    "rotation": 0
+  },
+  "colors": {
+    "background": "0xFC00",
+    "text_default": "0x0000",
+    "text_selected": "0xFFFF",
+    "accent": "0x4A69",
+    "bar_color": "0x0000"
+  },
+  "hardware_leds": {
+    "ledBright": 10,
+    "ledColor": "0xC76A00",
+    "ledEffect": 4,
+    "ledEffectSpeed": 6,
+    "ledEffectDirection": 1
+  },
+  "layout": {
+    "status_bar": {
+      "visible": true,
+      "x": 0,
+      "y": 0,
+      "w": 135,
+      "h": 20,
+      "font_size": 1
+    },
+    "menu_list": {
+      "x": 4,
+      "y": 24,
+      "w": 127,
+      "h": 190,
+      "item_height": 22,
+      "max_visible_items": 8,
+      "font_size": 1,
+      "padding_left": 4
+    },
+    "selection_bar": {
+      "radius": 2,
+      "fill": true
+    },
+    "footer_bar": {
+      "visible": true,
+      "x": 0,
+      "y": 220,
+      "w": 135,
+      "h": 20
+    }
+  }
 }
